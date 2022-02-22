@@ -16,7 +16,7 @@ function Header() {
       <Toolbar>
         <HeadsetTwoTone />
         <Typography className={classes.title} variant="h6" component="h1">
-          App-ollo Music Player
+       MotionDAO Music Player
         </Typography>
       </Toolbar>
     </AppBar>
