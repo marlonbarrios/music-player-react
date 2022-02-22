@@ -22,7 +22,7 @@ function Header() {
         <Button className={classes.Button} color="neutral" variant="contained" >
 Connect Wallet </Button>    <HeadsetTwoTone />
         <Typography styles={{justifyContent:'space-evenly;'}} className={classes.title} variant="h6" component="h1">
-       MotionDAO Music Player </Typography>
+     MotionDAO@KernelV Music Player </Typography>
 
       </Toolbar>
     </AppBar>
