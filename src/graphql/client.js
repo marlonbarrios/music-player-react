@@ -12,7 +12,7 @@ const client = new ApolloClient({
       reconnect: true,
       connectionParams: {
         headers: {
-          'x-hasura-admin-secret': 'EWul6PtKSIuziWNSr3ejZ6rITLRGCKSK7KLMGTWAOQeneUvSn1B9lKafe0uRR7c1'
+          'x-hasura-admin-secret': 'secret_code_hasura'
         }
       }
     }
